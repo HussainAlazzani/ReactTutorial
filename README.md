@@ -1,3 +1,3 @@
 # React Tutorial
 
-In this tutorial I cover the basics of react, and also cover hooks, how to create custom hooks, context API and react router.
+In this tutorial I cover the basics of react, and then move on to cover some advance topics namely: hooks & custom hooks, context API and react router.
