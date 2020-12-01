@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 // JS
 // const input = document.getElementById('myText');
 // const inputValue = input.value
@@ -6,7 +6,7 @@ import React, { useState } from 'react';
 // value, onChange
 // dynamic object keys
 
-const ControlledInputs = () => {
+const MultipleInputs = () => {
   const [firstName, setFirstName] = useState('');
   const [email, setEmail] = useState('');
   const [people, setPeople] = useState([]);
@@ -65,4 +65,4 @@ const ControlledInputs = () => {
   );
 };
 
-export default ControlledInputs;
+export default MultipleInputs;
