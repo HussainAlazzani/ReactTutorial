@@ -1,11 +1,10 @@
 import React from "react";
-import Setup from "./Topics/UseReducer/indexReducer";
+import Setup from "./Topics/UseReducer/UseReducerComplex";
 
 const App = () => {
     return (
         <div className="container">
             <Setup />
-            
         </div>
     );
 };
